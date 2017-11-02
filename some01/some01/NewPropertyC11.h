@@ -8,7 +8,8 @@ class NewPropertyC11
 public:
 	NewPropertyC11();
 	~NewPropertyC11();
-	void funPointTest();
+	void funcPointTest();
+	void funcTempeletTest();
 
 private:
 
