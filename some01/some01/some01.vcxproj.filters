@@ -27,6 +27,12 @@
     <ClInclude Include="PointTest.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ExtendsTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NewPropertyC11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +42,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="PointTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtendsTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NewPropertyC11.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
