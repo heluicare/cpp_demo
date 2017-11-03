@@ -19,3 +19,4 @@ using namespace std;
 #include "PointTest.h"
 #include "ExtendsTest.h"
 #include "NewPropertyC11.h"
+#include <functional>

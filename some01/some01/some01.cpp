@@ -6,8 +6,8 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 
-	PointTest pt;
-	pt.allocTest();
+	NewPropertyC11 c11;
+	c11.funcTempeletTest();
 
 	system("pause");
 	return 0;

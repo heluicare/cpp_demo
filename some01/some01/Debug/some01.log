@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/11/3 星期五 12:24:21。
+     1>项目“F:\Zyou\hel\cpp_demo\some01\some01\some01.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\some01.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xfunctional(21): error C2143: 语法错误 : 缺少“;”(在“namespace”的前面)
+     1>已完成生成项目“F:\Zyou\hel\cpp_demo\some01\some01\some01.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.69
