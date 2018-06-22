@@ -27,6 +27,7 @@ struct PrintNum {
 int _tmain(int argc, _TCHAR* argv[])
 {
 	// 存储 自由函数
+	// 仿函数std::function是一个函数模板类，
 	std::function<void(int)> f_display = print_num;
 	f_display(-9);
 
